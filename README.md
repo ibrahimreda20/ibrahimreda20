@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Reda</h1>
-<h3 align="center">junior Data Scientist | Machine Learning | Deep Learning | RNN | CNN | NLPontend developer from India</h3>
+<h3 align="center">junior Data Scientist | Machine Learning Engineer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimreda20" alt="ibrahimreda20" /></a> </p>
 
